@@ -135,7 +135,7 @@ export default class BookActions extends Component {
     render() {
         return (
             <div>
-                <h1>Добавление книги</h1>
+                <h1>Добавление книги  </h1>
                 <div className="row mt-5">
                     <div className = "card pt-5 pl-2 pr-2 pb-3 ">
                         <div className = "card-body">
